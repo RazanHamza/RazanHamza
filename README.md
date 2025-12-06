@@ -14,7 +14,7 @@ Currently learning Next.js and TypeScript to strengthen my frontend skills.
 
 ---
 
-## 💜 Technologies & Tools
+## Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=800020)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=800020)
@@ -33,16 +33,11 @@ Currently learning Next.js and TypeScript to strengthen my frontend skills.
 
 ---
 
-## 🤍 Contact Me
+## Contact Me
 
 [![Email](https://img.shields.io/badge/Email-em148937%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=800020)](mailto:em148937@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit-informational?style=flat&logo=linkedin&logoColor=white&color=800020)](https://www.linkedin.com/in/razan-khaled-1730a62b6)  
 [![GitHub](https://img.shields.io/badge/GitHub-RazanHamza-informational?style=flat&logo=github&logoColor=white&color=800020)](https://github.com/RazanHamza)
-
----
-
-✨ **Feel free to reach out for collaboration, questions, or just to connect professionally.  
-I'm always open to new opportunities and discussions in web development!**
 
 ---
 
@@ -107,6 +102,9 @@ I'm always open to new opportunities and discussions in web development!**
 </a>
 🔗 [Live Demo](https://e-commerce-1-pi-three.vercel.app/)
 
+<br>
+<br>
+<br>
 <br>
 
 <p align="center">
