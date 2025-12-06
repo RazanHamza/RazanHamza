@@ -58,11 +58,10 @@ I'm always open to new opportunities and discussions in web development!**
 
 ---
 
-## 📌 مشاريع مميزة
+## 📌 Featured Projects
 
 <!-- Quotes App -->
 <a href="https://quotes-app-iota.vercel.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazanHamza&repo=quotes-app-iota&title_color=ffffff&text_color=c9cacc&icon_color=800020&bg_color=1d1f21" />
 </a>
 🔗 [Live Demo](https://quotes-app-iota.vercel.app/)
 
@@ -70,7 +69,6 @@ I'm always open to new opportunities and discussions in web development!**
 
 <!-- Bookmarker -->
 <a href="https://bookmarker-mu.vercel.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazanHamza&repo=bookmarker-mu&title_color=ffffff&text_color=c9cacc&icon_color=800020&bg_color=1d1f21" />
 </a>
 🔗 [Live Demo](https://bookmarker-mu.vercel.app/)
 
@@ -78,7 +76,6 @@ I'm always open to new opportunities and discussions in web development!**
 
 <!-- Login App -->
 <a href="https://login-app-khaki.vercel.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazanHamza&repo=login-app-khaki&title_color=ffffff&text_color=c9cacc&icon_color=800020&bg_color=1d1f21" />
 </a>
 🔗 [Live Demo](https://login-app-khaki.vercel.app/)
 
@@ -86,7 +83,6 @@ I'm always open to new opportunities and discussions in web development!**
 
 <!-- Weather App -->
 <a href="https://weather-three-woad.vercel.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazanHamza&repo=weather-three-woad&title_color=ffffff&text_color=c9cacc&icon_color=800020&bg_color=1d1f21" />
 </a>
 🔗 [Live Demo](https://weather-three-woad.vercel.app/)
 
@@ -94,7 +90,6 @@ I'm always open to new opportunities and discussions in web development!**
 
 <!-- Start Framework -->
 <a href="https://start-framework-xs9f.vercel.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazanHamza&repo=start-framework-xs9f&title_color=ffffff&text_color=c9cacc&icon_color=800020&bg_color=1d1f21" />
 </a>
 🔗 [Live Demo](https://start-framework-xs9f.vercel.app/)
 
@@ -102,7 +97,6 @@ I'm always open to new opportunities and discussions in web development!**
 
 <!-- Social App -->
 <a href="https://social-app-zem5.vercel.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazanHamza&repo=social-app-zem5&title_color=ffffff&text_color=c9cacc&icon_color=800020&bg_color=1d1f21" />
 </a>
 🔗 [Live Demo](https://social-app-zem5.vercel.app/)
 
@@ -110,13 +104,12 @@ I'm always open to new opportunities and discussions in web development!**
 
 <!-- E-Commerce App -->
 <a href="https://e-commerce-1-pi-three.vercel.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazanHamza&repo=e-commerce-1-pi-three&title_color=ffffff&text_color=c9cacc&icon_color=800020&bg_color=1d1f21" />
 </a>
 🔗 [Live Demo](https://e-commerce-1-pi-three.vercel.app/)
 
 <br>
 
 <p align="center">
-  🛠️ المزيد من المشاريع المثيرة قادمة قريباً...
+  🛠️ More exciting projects coming soon...
   <img src="https://i.gifer.com/ZZ5H.gif" width="20" height="20" />
 </p>
