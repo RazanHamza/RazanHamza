@@ -45,49 +45,49 @@ Currently learning Next.js and TypeScript to strengthen my frontend skills.
 <!-- Quotes App -->
 <a href="https://quotes-app-iota.vercel.app/">
 </a>
-🔗 [Live Demo](https://quotes-app-iota.vercel.app/)
+🔗 [Quotes App]  (https://quotes-app-iota.vercel.app/)
 
 <br>
 
 <!-- Bookmarker -->
 <a href="https://bookmarker-mu.vercel.app/">
 </a>
-🔗 [Live Demo](https://bookmarker-mu.vercel.app/)
+🔗 [Bookmarker]   (https://bookmarker-mu.vercel.app/)
 
 <br>
 
 <!-- Login App -->
 <a href="https://login-app-khaki.vercel.app/">
 </a>
-🔗 [Live Demo](https://login-app-khaki.vercel.app/)
+🔗 [Login App]   (https://login-app-khaki.vercel.app/)
 
 <br>
 
 <!-- Weather App -->
 <a href="https://weather-three-woad.vercel.app/">
 </a>
-🔗 [Live Demo](https://weather-three-woad.vercel.app/)
+🔗 [Weather App]   (https://weather-three-woad.vercel.app/)
 
 <br>
 
 <!-- Start Framework -->
 <a href="https://start-framework-xs9f.vercel.app/">
 </a>
-🔗 [Live Demo](https://start-framework-xs9f.vercel.app/)
+🔗 [Start Framework]   (https://start-framework-xs9f.vercel.app/)
 
 <br>
 
 <!-- Social App -->
 <a href="https://social-app-zem5.vercel.app/">
 </a>
-🔗 [Live Demo](https://social-app-zem5.vercel.app/)
+🔗 [Social App]  (https://social-app-zem5.vercel.app/)
 
 <br>
 
 <!-- E-Commerce App -->
 <a href="https://e-commerce-1-pi-three.vercel.app/">
 </a>
-🔗 [Live Demo](https://e-commerce-1-pi-three.vercel.app/)
+🔗 [E-Commerce App]  (https://e-commerce-1-pi-three.vercel.app/)
 
 <br>
 <br>
