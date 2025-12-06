@@ -35,21 +35,8 @@ Currently learning Next.js and TypeScript to strengthen my frontend skills.
 
 ## Contact Me
 
-[![Email](https://img.shields.io/badge/Email-em148937%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=800020)](mailto:em148937@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit-informational?style=flat&logo=linkedin&logoColor=white&color=800020)](https://www.linkedin.com/in/razan-khaled-1730a62b6)  
 [![GitHub](https://img.shields.io/badge/GitHub-RazanHamza-informational?style=flat&logo=github&logoColor=white&color=800020)](https://github.com/RazanHamza)
-
----
-
-## 📈 GitHub Stats
-
-<a href="https://github.com/RazanHamza" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazanHamza&hide=python,java,go,ruby,swift&langs_count=4&title_color=ffffff&text_color=c9cacc&icon_color=800020&bg_color=1d1f21&layout=compact" />
-</a>
-
-<a href="https://github.com/RazanHamza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazanHamza&show_icons=true&count_private=true&hide_title=false&title_color=ffffff&text_color=c9cacc&icon_color=800020&bg_color=1d1f21" alt="Razan's GitHub Stats" />
-</a>
 
 ---
 
