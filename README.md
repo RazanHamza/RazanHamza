@@ -1,49 +1,66 @@
-# Hi, I'm Razan Hamza 👋
 
-### Full-Stack Developer | React · Next.js · Node.js · Express
+# Razan Hamza
 
-I build responsive web interfaces and RESTful APIs, turning ideas into practical web applications.
+### Full-Stack Developer | React.js · Next.js · Node.js
 
-[LinkedIn](https://www.linkedin.com/in/razan-khaled-1730a62b6) · [GitHub](https://github.com/RazanHamza)
+I’m a Computer Science student and Full-Stack Developer passionate about building scalable web applications, intuitive user interfaces, and reliable backend systems.
+
+I enjoy turning ideas into real-world products through clean code, thoughtful architecture, and continuous learning.
+
+[GitHub](https://github.com/RazanHamza) · [LinkedIn](https://www.linkedin.com/in/razan-khaled-1730a62b6)
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 Computer Science student at Sadat University.
-- 💻 Focused on building full-stack web applications.
-- 🌱 Continuously improving my skills in backend architecture and modern frontend development.
-- 🤝 Open to freelance projects and collaborations.
+- 🎓 Computer Science Student — Sadat University.
+- 💻 Building modern web applications using React, Next.js, Node.js, and Express.
+- ⚙️ Interested in REST API design, authentication, database architecture, and scalable backend systems.
+- 🌱 Always learning and improving my software engineering skills.
+- 🤝 Open to freelance opportunities and collaboration.
 
-## 🧰 Tech Stack
+---
 
-**Frontend**
+## Technical Skills
 
-HTML · CSS · Sass · Bootstrap · Tailwind CSS · JavaScript · TypeScript · React · Next.js
+**Frontend Development**
 
-**Backend & Database**
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React.js` `Next.js` `Bootstrap` `Tailwind CSS` `Redux Toolkit`
 
-Node.js · Express.js · MongoDB · Mongoose · Redis
+**Backend Development**
 
-**Tools**
+`Node.js` `Express.js` `REST APIs` `JWT` `Authentication` `Multer`
 
-Git · GitHub · Postman · VS Code
+**Databases**
 
-## 🚀 Featured Projects
+`MongoDB` `Mongoose` `Redis`
 
-### [Social App Backend](https://github.com/RazanHamza/social-app-backend)
+**Tools & Workflow**
 
-A RESTful backend for a social networking application.
+`Git` `GitHub` `Postman` `VS Code`
 
-### [Social App](https://social-app-zem5.vercel.app/)
+---
 
-A social application frontend.
+## Featured Projects
 
-### [E-Commerce App](https://e-commerce-1-pi-three.vercel.app/)
+### Social App Backend
+[View Repository](https://github.com/RazanHamza/social-app-backend)
+
+A backend application for a social networking platform, focused on authentication, user management, and RESTful API development.
+
+**Technologies:** Node.js · Express.js · TypeScript · MongoDB · Redis
+
+### Social App
+[Live Demo](https://social-app-zem5.vercel.app/)
+
+A social networking frontend application.
+
+### E-Commerce App
+[Live Demo](https://e-commerce-1-pi-three.vercel.app/)
 
 An e-commerce frontend project.
 
-### More Projects
+### Other Projects
 
 - [Quotes App](https://quotes-app-iota.vercel.app/)
 - [Bookmarker](https://bookmarker-mu.vercel.app/)
@@ -51,6 +68,20 @@ An e-commerce frontend project.
 
 ---
 
-## 📫 Let's Connect
+## GitHub Statistics
 
-[LinkedIn](https://www.linkedin.com/in/razan-khaled-1730a62b6) · [GitHub](https://github.com/RazanHamza)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RazanHamza&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazanHamza&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
+</p>
+
+---
+
+## Let's Connect
+
+- **GitHub:** [@RazanHamza](https://github.com/RazanHamza)
+- **LinkedIn:** [Razan Hamza](https://www.linkedin.com/in/razan-khaled-1730a62b6)
+
+<p align="center">
+  <i>Building, learning, and improving — one project at a time.</i>
+</p>
